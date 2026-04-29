@@ -5,4 +5,4 @@
 
 [[edge_functions]]
   path = "/*"
-  function = "proxy"
+  function = "weather-aggregator"
