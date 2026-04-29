@@ -5,5 +5,15 @@
   "private": true,
   "keywords": ["weather", "climate", "forecast", "meteorology", "data-aggregation"],
   "author": "Weather Data Team",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {}
 }
