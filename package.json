@@ -1,6 +1,9 @@
 {
-  "name": "netlify-xhttp",
-  "version": "1.0.0",
-  "description": "",
-  "private": true
+  "name": "weather-data-aggregator",
+  "version": "2.0.0",
+  "description": "A lightweight weather data aggregation service that fetches and processes real-time weather information from multiple sources",
+  "private": true,
+  "keywords": ["weather", "climate", "forecast", "meteorology", "data-aggregation"],
+  "author": "Weather Data Team",
+  "license": "MIT"
 }
